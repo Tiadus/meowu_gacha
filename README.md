@@ -12,6 +12,8 @@ Have fun and stay tune for more update with more games in the future !!!
 # Source Code
 Here are the links to the source code.
 
+Design Figma: https://www.figma.com/design/6NJc4llqYFarjRdMDOVwYt/Meowu-Gacha?node-id=0-1&t=4TDTH8bVq2NnyBtW-1
+
 Frontend: https://github.com/Tiadus/meowu_gacha_web
 
 Backend: https://github.com/Tiadus/meowu_gacha_server
